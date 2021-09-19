@@ -19,6 +19,7 @@
  <a href="https://api.whatsapp.com/send?phone=5521965475598&fbclid=IwAR1kQHKW8vplqIxi7PGV6IdnMNqugWa8ptnUQuDopkszZm4q1V9JBWVDlgs" target="_blank"><img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/silveirafabio97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
  
  ##
 <a href="" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
@@ -35,11 +36,6 @@
 
 ##
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white"></a>
-</div>
-
-##
 
 
  
