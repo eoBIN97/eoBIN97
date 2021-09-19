@@ -20,7 +20,7 @@
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.instagram.com/f.4bio_/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5521965475598&fbclid=IwAR1kQHKW8vplqIxi7PGV6IdnMNqugWa8ptnUQuDopkszZm4q1V9JBWVDlgs" target="_blank"><img src="https://br.freepik.com/icones-gratis/whatsapp_15334578.htm#page=1&query=whatsapp&position=0" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5521965475598&fbclid=IwAR1kQHKW8vplqIxi7PGV6IdnMNqugWa8ptnUQuDopkszZm4q1V9JBWVDlgs" target="_blank"><img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/silveirafabio97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
