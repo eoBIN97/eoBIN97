@@ -36,7 +36,11 @@ src="https://img.shields.io/github/followers/eoBIN97?logo=github&style=for-the-b
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-  </p>  
+  </p>
+  
+  ### Music
+  <a href="" target="_blank" rel="noreferrer"><img src="https://sco.wikipedia.org/wiki/Spotify#/media/File:Spotify_logo_with_text.svg" width="32" height="32" /></a>
+  
 
 
    <b>My GitHub Stats</b>
