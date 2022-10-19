@@ -1,44 +1,40 @@
-## Oiii! Eu sou o Fábio 
+## Hi 👋 My name is Fábio
 
- <div>
-  <a href="">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eoBIN97&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoBIN97&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+<h2>Front-End Developer</h2>
+
+
+I'm a 24 years old developer . I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
+
+Studying systems analysis and development at unigranrio currently in the 3rd period
+
+* 🌍 I'm based in Rio de Janeiro, Brazil;
+* ✉️  You can contact me at [silveirafabinho97@gmail.com];
+* 🚀 Currently developing a platform for game players;
+* 🧠 I'm learning Javascript, Ruby on Rails, Bootstrap and ReactJs;
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives;
+* ⚡ I love sports and games and programming.
+
+<a href="https://www.github.com/eoBIN97" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/eoBIN97?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
   
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/f.4bio_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/fabinhow3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5521965475598&fbclid=IwAR1kQHKW8vplqIxi7PGV6IdnMNqugWa8ptnUQuDopkszZm4q1V9JBWVDlgs" target="_blank"><img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silveirafabio97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
- 
- ##
-<a href="" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" target="_blank"></a>
-</div>
- 
- ##
- 
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
-</div>
+### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" width="36" height="36" alt="HTMML" /></a>
+</p>
 
 ##
 
+   <b>My GitHub Stats</b>
 
-
- 
+   <div>
+  <a href="">
+  <img height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api?username=eoBIN97&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"%20alt="peguimasid%27s%20GitHub%20stats"/>
+  <img height="150em" src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=eoBIN97&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"%20alt="Top%20Languages"/></br>
+  <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=eoBIN97&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"%20alt="GitHub%20Commits%20Graph"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eoBIN97&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+</div>
  
   ![Snake animation](https://github.com/eoBIN97/eoBIN97/blob/output/github-contribution-grid-snake.svg)
  
