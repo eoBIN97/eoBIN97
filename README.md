@@ -39,10 +39,8 @@ src="https://img.shields.io/github/followers/eoBIN97?logo=github&style=for-the-b
   
   ### Music
   <a href="https://open.spotify.com/user/31stztmdkhimu2eaxak47rksozka" target="_blank" rel="noreferrer"><img src="https://open.spotifycdn.com/cdn/images/error-page-logo.24aca703.svg" width="32" height="32" /></a>
+
   
-
-
-   <b>My GitHub Stats</b>
  
   ![Snake animation](https://github.com/eoBIN97/eoBIN97/blob/output/github-contribution-grid-snake.svg)
  
