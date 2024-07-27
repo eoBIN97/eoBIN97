@@ -32,14 +32,13 @@ src="https://img.shields.io/github/followers/eoBIN97?logo=github&style=for-the-b
 <p align="left">
   <a href="https://discord.com/channels/@me/1012141314537701436" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/eoBIN97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-   <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/silveirafabio97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://x.com/liimafabio_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/liimafabio_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   </p>
   
   ### Music
-  <a href="" target="_blank" rel="noreferrer"><img src="https://sco.wikipedia.org/wiki/Spotify#/media/File:Spotify_logo_with_text.svg" width="32" height="32" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="[https://sco.wikipedia.org/wiki/Spotify#/media/File:Spotify_logo_with_text.svg](https://icons8.com/icon/WqbHQ1d7sdKN/spotify)" width="32" height="32" /></a>
   
 
 
