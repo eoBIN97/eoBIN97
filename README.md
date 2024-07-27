@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/eoBIN97?logo=github&style=for-the-b
   </p>
   
   ### Music
-  <a href="" target="_blank" rel="noreferrer"><img src="[https://sco.wikipedia.org/wiki/Spotify#/media/File:Spotify_logo_with_text.svg](https://icons8.com/icon/WqbHQ1d7sdKN/spotify)" width="32" height="32" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://open.spotifycdn.com/cdn/images/error-page-logo.24aca703.svg" width="32" height="32" /></a>
   
 
 
